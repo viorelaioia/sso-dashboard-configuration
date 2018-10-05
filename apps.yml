@@ -411,6 +411,7 @@ apps:
       authorized_groups: ['everyone']
       display: true
       vanity_url: ['/mozillians']
+      AAI: "LOW"
   - application:
       name: "Nucleus"
       client_id: "a6cidU6mSbciFAjy4uRQeeuFHIsLIWgg"
